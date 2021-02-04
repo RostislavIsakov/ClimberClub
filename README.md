@@ -3,6 +3,8 @@ _________
 
 
  [ Инфологическая модель предметной области ](https://github.com/RostislavIsakov/ClimberClub/wiki/Инфологическая-модель-предметной-области)
+ 
+ [ ER диаграмма ](https://github.com/RostislavIsakov/ClimberClub/wiki/ER-диаграмма)
 
  [ Миграция ](https://github.com/RostislavIsakov/ClimberClub/wiki/Миграция)
 
@@ -13,4 +15,3 @@ _________
  [ Хранимые процедуры ](https://github.com/RostislavIsakov/ClimberClub/wiki/Хранимые-процедуры)
 
  [ Триггеры ](https://github.com/RostislavIsakov/ClimberClub/wiki/Триггеры)
-
