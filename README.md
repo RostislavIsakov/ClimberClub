@@ -15,3 +15,6 @@ _________
  [ Хранимые процедуры ](https://github.com/RostislavIsakov/ClimberClub/wiki/Хранимые-процедуры)
 
  [ Триггеры ](https://github.com/RostislavIsakov/ClimberClub/wiki/Триггеры)
+ 
+ [ Приложение ](https://github.com/RostislavIsakov/ClimberClub/wiki/Приложение)
+
